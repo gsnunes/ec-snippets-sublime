@@ -5,7 +5,7 @@
 *
 */$1: function($2) {
 	$3
-};]]></content>
+},]]></content>
     <tabTrigger>bfn</tabTrigger>
     <scope>source.js</scope>
     <description>Bridge function.</description>
