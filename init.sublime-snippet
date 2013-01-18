@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[/**
+*
+* init
+*
+*/
+init: function(data) {
+	this.inherited().init();
+	this.data = data;
+	$1
+},]]></content>
+    <tabTrigger>init</tabTrigger>
+    <scope>source.js</scope>
+    <description>init bridge function</description>
+</snippet>

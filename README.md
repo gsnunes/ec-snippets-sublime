@@ -4,16 +4,45 @@ ecb
 Repositorio com alguns snippets do sublime text 2 para codigo HTML e Javascript usados na ec.
 
 sublime-snippets
-Snippets created to be used on sublime text 2 IDE, start with JavaScript snippets.
+POr favor ao adicionar um snippet adicione um exemplo de uso aqui. Gracias.
 
-EXAMPLES: init
+EXAMPLES: 
 
-init: function(data) { this.inherited().init(); this.data = data; },
+init gera:
+/**
+*
+* init
+*
+*/
+init: function(data) {
+	this.inherited().init(); 
+	this.data = data;
+},
 
-onAttach onAttach: function() { this.inherited().onAttach(); },
+onAttach gera:
+/**
+*
+* onAttach
+*
+*/
+onAttach: function($1) { 
+	this.inherited().onAttach();
+	$2
+},
 
-tef this.elements.find('#element');
+tef gera:
+this.elements.find('#element');
 
-tw this.widgets['element'];
+tw gera:
+this.widgets['element'];
 
-bfn functionName: function(params) { // your code here dude... },
+bfn gera:
+
+/**
+*
+* functionName
+*
+*/
+functionName: function() {
+	// your code here dude... 
+},

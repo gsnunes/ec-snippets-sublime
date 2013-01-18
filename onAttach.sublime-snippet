@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[/**
+*
+* onAttach
+*
+*/
+onAttach() {
+	this.inherited().onAttach();
+	$1
+},]]></content>
+    <tabTrigger>onAttach</tabTrigger>
+    <scope>source.js</scope>
+    <description>onAttach bridge function</description>
+</snippet>
