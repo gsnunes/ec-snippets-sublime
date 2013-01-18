@@ -1,8 +1,12 @@
 <snippet>
-    <content><![CDATA[$1: function($2) {
+    <content><![CDATA[/**
+*
+* $1
+*
+*/$1: function($2) {
 	$3
 };]]></content>
     <tabTrigger>bfn</tabTrigger>
     <scope>source.js</scope>
-    <description>Teste pereira</description>
+    <description>Bridge function.</description>
 </snippet>
