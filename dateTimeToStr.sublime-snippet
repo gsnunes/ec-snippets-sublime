@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[this.util.dateTimeToStr($1date);]]></content>
+    <tabTrigger>dateTimeToStr</tabTrigger>
+    <tabTrigger>dtts</tabTrigger>
+    <scope>source.js</scope>
+    <description>Atalho para o this.util.dateTimeToStr</description>
+</snippet>
