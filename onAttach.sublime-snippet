@@ -4,7 +4,7 @@
 * onAttach
 *
 */
-onAttach() {
+onAttach: function() {
 	this.inherited().onAttach();
 	$1
 },]]></content>
