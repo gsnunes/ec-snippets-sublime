@@ -1,14 +1,15 @@
-#ecb
+#ECB
 
 > Repo with some Sublime snippets to improve the code on EC.
 
+<br/>
 
 Click on snippet to see your usage:
 
 * [setTimeout](#setTimeout)
 
 
-## setTimeout
+### setTimeout
 
 ```javascript
 setTimeout(function () {
