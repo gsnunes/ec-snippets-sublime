@@ -5,12 +5,11 @@
 
 
 Click on snippet to see your usage:
-
 * [setTimeout](#setTimeout)
 
 
-### setTimeout
 
+### setTimeout
 ```javascript
 setTimeout(function () {
 	//your code here
