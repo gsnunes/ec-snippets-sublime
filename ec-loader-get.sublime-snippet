@@ -1,0 +1,15 @@
+<snippet>
+<content>
+<![CDATA[
+loader.loadScript('/dwr/interface/${1:Project}Service.js', function () {
+	${1:Project}Service.${2:get}(function (${3:data}) {
+		${0}
+	});
+});
+]]>
+</content>
+
+<tabTrigger>loader</tabTrigger>
+<scope>source.js</scope>
+<description>DWR loader get</description>
+</snippet>
