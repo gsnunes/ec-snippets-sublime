@@ -42,7 +42,6 @@ init: function(data) {
 */
 onAttach: function($1) { 
 	this.inherited().onAttach();
-	$2
 },
 ```
 
