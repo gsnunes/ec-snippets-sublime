@@ -1,6 +1,6 @@
-#ECB
+#JS Sublime Snippets
 
-> Repo with some Sublime snippets to improve the code on EC.
+> Custom JS Sublime snippets.
 
 
 Click on snippet to see your usage:
