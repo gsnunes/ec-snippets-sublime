@@ -2,8 +2,8 @@
 <content>
 <![CDATA[
 try {
-	${0}
-} catch(e) {
+	${0:$TM_SELECTED_TEXT}
+} catch (e) {
 	cl(e.message);
 }
 ]]>
