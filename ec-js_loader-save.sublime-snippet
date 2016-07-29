@@ -2,8 +2,8 @@
 <content>
 <![CDATA[
 loader.loadService('${1}Service', function () {
-	${1}Service.${2:save}(function (${3:data}) {
-		callbackHandler: function () {
+	${1}Service.${2:save}(${3:data}, {
+		callbackHandler: function (${4:result}) {
 			${0}
 		},
 		exceptionHandler: function (message, error) {
