@@ -1,0 +1,28 @@
+<snippet>
+
+<content>
+<![CDATA[
+/*
+ * $1Widget
+ *
+ */
+$1Widget = Widget.extend({
+
+	/**
+	 * Constructor
+	 * @param {HTML Element} elem
+	 */
+	init: function(elem) {
+		$2
+	}
+
+});
+
+]]>
+</content>
+
+<tabTrigger>Widget</tabTrigger>
+<scope>source.js</scope>
+<description>trigger for Widget</description>
+
+</snippet>

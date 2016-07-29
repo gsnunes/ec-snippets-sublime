@@ -1,8 +1,8 @@
 <snippet>
 <content>
 <![CDATA[
-loader.loadScript('/dwr/interface/${1:Project}Service.js', function () {
-	${1:Project}Service.${2:get}(function (${3:data}) {
+loader.loadService('${1}Service', function () {
+	${1}Service.${2:get}(function (${3:result}) {
 		${0}
 	});
 });

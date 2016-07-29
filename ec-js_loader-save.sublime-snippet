@@ -1,13 +1,13 @@
 <snippet>
 <content>
 <![CDATA[
-loader.loadScript('/dwr/interface/${1:Project}Service.js', function () {
-	${1:Project}Service.${2:save}(${3:data}, {
+loader.loadService('${1}Service', function () {
+	${1}Service.${2:save}(function (${3:data}) {
 		callbackHandler: function () {
 			${0}
 		},
 		exceptionHandler: function (message, error) {
-			errorHandler.showValidationError(_this.widgets['form'], error);
+			errorHandler.showValidationError(_this.w.form, error);
 		}
 	});
 });

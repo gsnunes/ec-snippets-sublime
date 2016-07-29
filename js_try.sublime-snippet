@@ -3,7 +3,8 @@
 <![CDATA[
 try {
 	${0:$TM_SELECTED_TEXT}
-} catch (e) {
+}
+catch (e) {
 	cl(e.message);
 }
 ]]>

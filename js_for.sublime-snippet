@@ -2,7 +2,7 @@
 	
 <content>
 <![CDATA[
-for (var ${20:i} = 0, len = ${1:data}.length; ${20:i} < len; ${20:i}++) {
+for (${20:i} = 0; ${20:i} < len; ${20:i}++) {
 	${100:${1:data}[${20:i}]}$0
 }
 ]]>

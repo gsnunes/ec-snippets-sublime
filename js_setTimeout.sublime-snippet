@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[setTimeout(function () {$0}${2:}, ${1:1000});]]></content>
+    <content><![CDATA[setTimeout(_.bind(function () {$0}${2:}, this), ${1:1000});]]></content>
 
     <tabTrigger>timeout</tabTrigger>
     <scope>source.js</scope>
