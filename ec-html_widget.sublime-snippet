@@ -1,6 +1,14 @@
 <snippet>
-    <content><![CDATA[<div class="template" widget="$1" name="$2" classes="$3"></div>]]></content>
-    <tabTrigger>widget</tabTrigger>
-    <scope>text.html</scope>
-    <description>tag i18n para html</description>
+<content>
+<![CDATA[
+<div id="${1}Widget">
+	<div>
+		${2}
+	</div>
+</div>
+]]>
+</content>
+<tabTrigger>template</tabTrigger>
+<scope>text.html</scope>
+<description>widget para html</description>
 </snippet>

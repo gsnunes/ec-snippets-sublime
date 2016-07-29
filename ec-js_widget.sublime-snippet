@@ -2,18 +2,37 @@
 
 <content>
 <![CDATA[
-/*
- * $1Widget
+/**
+ *
+ * ${1}Widget.js
  *
  */
-$1Widget = Widget.extend({
+${1}Widget = Widget.extend({
 
 	/**
-	 * Constructor
-	 * @param {HTML Element} elem
+	 * init
 	 */
-	init: function(elem) {
-		$2
+	init: function (elem) {
+		this._super(elem);
+	},
+
+
+
+	/**
+	 * onAttach
+	 */
+	onAttach: function () {
+		${2}
+	},
+
+
+
+	/**
+	 * getTemplateName
+	 * Gets the component name.
+	 */
+	getTemplateName: function () {
+		return '${1}Widget';
 	}
 
 });
