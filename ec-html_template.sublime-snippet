@@ -2,5 +2,5 @@
     <content><![CDATA[<div class="template" widget="$1" name="$2" classes="$3"></div>]]></content>
     <tabTrigger>template</tabTrigger>
     <scope>text.html</scope>
-    <description>tag template para html</description>
+    <description>widget instance for html</description>
 </snippet>

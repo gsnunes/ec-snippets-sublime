@@ -12,5 +12,5 @@ catch (e) {
 
 <tabTrigger>try</tabTrigger>
 <scope>source.js</scope>
-<description>try</description>
+<description>trigger for try</description>
 </snippet>

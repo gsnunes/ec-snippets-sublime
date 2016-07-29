@@ -2,5 +2,5 @@
     <content><![CDATA[var _this = this;]]></content>
     <tabTrigger>_this</tabTrigger>
     <scope>source.js</scope>
-    <description>trigger for _this var.</description>
+    <description>trigger for _this var</description>
 </snippet>

@@ -10,5 +10,5 @@ for (${20:i} = 0; ${20:i} < len; ${20:i}++) {
 
 <tabTrigger>for</tabTrigger>
 <scope>source.js</scope>
-<description>for (i++)</description>
+<description>fast for (i++)</description>
 </snippet>

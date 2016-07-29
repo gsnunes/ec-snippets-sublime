@@ -2,5 +2,5 @@
     <content><![CDATA[\${i18n['$1']}]]></content>
     <tabTrigger>i18n</tabTrigger>
     <scope>text.html</scope>
-    <description>tag i18n para html</description>
+    <description>i18n get for html</description>
 </snippet>

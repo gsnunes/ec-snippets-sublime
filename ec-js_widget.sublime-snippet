@@ -41,6 +41,6 @@ ${1}Widget = Widget.extend({
 </content>
 
 <tabTrigger>widget</tabTrigger>
-<description>trigger for Widget</description>
+<description>widget for js</description>
 
 </snippet>

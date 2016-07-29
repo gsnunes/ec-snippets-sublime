@@ -10,5 +10,5 @@ this.addEventHandler('${20}', function (ev) {
 
 <tabTrigger>addEventHandler</tabTrigger>
 <scope>source.js</scope>
-<description>EC addEventHandler</description>
+<description>trigger for addEventHandler</description>
 </snippet>
