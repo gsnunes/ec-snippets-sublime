@@ -8,7 +8,7 @@
 </div>
 ]]>
 </content>
-<tabTrigger>template</tabTrigger>
+<tabTrigger>widget</tabTrigger>
 <scope>text.html</scope>
 <description>widget para html</description>
 </snippet>

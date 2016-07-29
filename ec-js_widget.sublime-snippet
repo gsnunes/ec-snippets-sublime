@@ -40,7 +40,7 @@ ${1}Widget = Widget.extend({
 ]]>
 </content>
 
-<tabTrigger>Widget</tabTrigger>
+<tabTrigger>widget</tabTrigger>
 <description>trigger for Widget</description>
 
 </snippet>
