@@ -3,5 +3,5 @@
 
     <tabTrigger>timeout</tabTrigger>
     <scope>source.js</scope>
-    <description>setTimeout function</description>
+    <description>trigger for setTimeout</description>
 </snippet>
